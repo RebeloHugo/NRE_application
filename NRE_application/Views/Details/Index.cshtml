@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "NER";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+   
+    <h1>New renewable energys</h1>
+    <div>
+        <div>
+            <button type="button" style="width:8%; margin-bottom:20px; margin-right:20px;" onclick="location.href='@Url.Action("Photovoltaic","RE_Pages")'">
+                <i class="material-icons" style="font-size:40px">brightness_5</i>
+                <br />
+                <p>PV</p>
+            </button>
+
+
+            <button type="button" style="width:8%" onclick="location.href='@Url.Action("Hydraulic","RE_Pages")'">
+                <span class="glyphicon glyphicon-cog" style="font-size:40px"></span>
+                <br />
+                <p>Mini-hydr</p>
+            </button>
+        </div>
+        <div>
+            <button type="button" style="width:8%;margin-right:20px;" onclick="location.href='@Url.Action("Windturbine","RE_Pages")'">
+                <i class="fa fa-openid" style="font-size:40px"></i>
+                <br />
+                <p>Windturbine</p>
+            </button>
+        
+            <button type="button" style="width:8%;" onclick="location.href='@Url.Action("Biogas","RE_Pages")'">
+                <span class="glyphicon glyphicon-bold" style="font-size:35px"></span>
+                <br />
+                <p>Bio-gas</p>
+            </button>
+        </div>
+    </div>
+</body>
+</html>
