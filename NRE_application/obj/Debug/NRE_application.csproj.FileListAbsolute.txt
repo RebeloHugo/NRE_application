@@ -130,3 +130,12 @@ G:\School\WorkspaceVS\NRE_application\NRE_application\bin\roslyn\vbc.exe.config
 G:\School\WorkspaceVS\NRE_application\NRE_application\bin\roslyn\vbc.rsp
 G:\School\WorkspaceVS\NRE_application\NRE_application\bin\roslyn\VBCSCompiler.exe
 G:\School\WorkspaceVS\NRE_application\NRE_application\bin\roslyn\VBCSCompiler.exe.config
+G:\School\WorkspaceVS\NRE_application\NRE_application\bin\Microsoft.QualityTools.Testing.Fakes.dll
+G:\School\WorkspaceVS\NRE_application\NRE_application\bin\MvcSiteMapProvider.dll
+G:\School\WorkspaceVS\NRE_application\NRE_application\bin\MvcSiteMapProvider.WebActivator.dll
+G:\School\WorkspaceVS\NRE_application\NRE_application\bin\WebActivatorEx.dll
+G:\School\WorkspaceVS\NRE_application\NRE_application\bin\Microsoft.Web.Administration.dll
+G:\School\WorkspaceVS\NRE_application\NRE_application\bin\MvcSiteMapProvider.xml
+G:\School\WorkspaceVS\NRE_application\NRE_application\bin\MvcSiteMapProvider.WebActivator.pdb
+G:\School\WorkspaceVS\NRE_application\NRE_application\bin\MvcSiteMapProvider.WebActivator.xml
+G:\School\WorkspaceVS\NRE_application\NRE_application\bin\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
