@@ -31,28 +31,5 @@ namespace NRE_application.Controllers
             return View();
         }
 
-
-        public ActionResult Biogas()
-        {
-            return View();
-        }
-
-        public ActionResult Hydraulic()
-        {
-            return View();
-        }
-
-
-        public ActionResult Photovoltaic()
-        {
-            return View();
-        }
-
-        public ActionResult Windturbine()
-        {
-            return View();
-        }
-
-
     }
 }
